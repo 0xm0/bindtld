@@ -1,0 +1,2 @@
+# bindtld
+bind tld (apache)
